@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79011748234",
+    "project_id": "epayment-41776",
+    "storage_bucket": "epayment-41776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79011748234:android:8ff647dcc849b23f019073",
+        "android_client_info": {
+          "package_name": "com.example.electronic_payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79011748234-i1e1es0u5kfllhn417i2ussce7v7s61m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7meXjWr7LA1jkOdL2tJYffS8xtgo-lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79011748234-i1e1es0u5kfllhn417i2ussce7v7s61m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
